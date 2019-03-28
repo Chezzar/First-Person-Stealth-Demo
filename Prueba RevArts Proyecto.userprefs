@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI_Global.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player_control.cs" Line="79" Column="33" />
+      <File FileName="Assets\Scripts\Score.cs" Line="11" Column="12" />
+      <File FileName="Assets\Scripts\UI_Global.cs" Line="91" Column="12" />
+      <File FileName="Assets\Scripts\Floppy.cs" Line="31" Column="20" />
+      <File FileName="Assets\Scripts\Enemy_Script.cs" Line="127" Column="87" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
